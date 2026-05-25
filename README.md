@@ -2,8 +2,6 @@
 
 This folder is renamed so the files match the paper experiments directly.
 
-Paper:
-`icml2026/draft1_pipeline_sota.tex`
 
 Full title:
 **When Wrong Answers Look Right: Multi-Agent Debate for High-Precision Verification of Hard Competition Mathematics**
@@ -23,13 +21,7 @@ Full title:
 
 - Dataset used by the paper:
   - [final_dataset.json](/Users/aurorasun/Desktop/ECE399/ECE399/When-Wrong-Answers-Look-Right/dataset/final_dataset.json)
-
-## Paper Source
-
-- Paper source:
-  - [draft1_pipeline_sota.tex](/Users/aurorasun/Desktop/ECE399/ECE399/When-Wrong-Answers-Look-Right/icml2026/draft1_pipeline_sota.tex)
-- Paper PDF:
-  - [draft1_pipeline_sota.pdf](/Users/aurorasun/Desktop/ECE399/ECE399/When-Wrong-Answers-Look-Right/icml2026/draft1_pipeline_sota.pdf)
+ 
 
 ## Experiments
 
