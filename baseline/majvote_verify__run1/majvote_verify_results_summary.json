@@ -1,0 +1,1663 @@
+{
+  "dataset_size": 195,
+  "filter": "all problems",
+  "baselines_run": [
+    4
+  ],
+  "baseline4_cm7": {
+    "accuracy": 0.8769,
+    "precision": 0.7656,
+    "recall": 0.8448,
+    "f1": 0.8033,
+    "confusion": {
+      "TP": 49,
+      "TN": 122,
+      "FP": 15,
+      "FN": 9
+    },
+    "invalid_count": 0,
+    "total_samples": 195,
+    "valid_samples": 195
+  },
+  "baseline4_cm7_problem_level": {
+    "problem_accuracy": 0.6552,
+    "problems_correct": 38,
+    "problems_total": 58,
+    "details": [
+      {
+        "problem_id": 1,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 2,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 3,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 4,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 5,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 6,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 7,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 8,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "wrong",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 9,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 10,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 11,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 12,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 13,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 14,
+        "num_variants": 3,
+        "variant_accuracy": 0.3333,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "wrong",
+            "match": false
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 15,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 16,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 17,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 18,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 19,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 20,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 21,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 22,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 23,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 24,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 25,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 26,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 27,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "wrong",
+            "match": false
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 28,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 29,
+        "num_variants": 3,
+        "variant_accuracy": 0.3333,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "wrong",
+            "match": false
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 30,
+        "num_variants": 3,
+        "variant_accuracy": 0.3333,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "wrong",
+            "match": false
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 31,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "wrong",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 32,
+        "num_variants": 3,
+        "variant_accuracy": 0.6667,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "wrong",
+            "match": false
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 33,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 34,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 35,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 36,
+        "num_variants": 3,
+        "variant_accuracy": 0.3333,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "wrong",
+            "match": false
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 37,
+        "num_variants": 3,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 38,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 39,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 40,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 41,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 42,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 43,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 44,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 45,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 46,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 47,
+        "num_variants": 4,
+        "variant_accuracy": 0.75,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 48,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 49,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 50,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 51,
+        "num_variants": 4,
+        "variant_accuracy": 0.75,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 52,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 53,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 54,
+        "num_variants": 4,
+        "variant_accuracy": 0.75,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          }
+        ]
+      },
+      {
+        "problem_id": 55,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 56,
+        "num_variants": 4,
+        "variant_accuracy": 0.75,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "wrong",
+            "match": false
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 57,
+        "num_variants": 4,
+        "variant_accuracy": 1.0,
+        "all_correct": true,
+        "variants": [
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      },
+      {
+        "problem_id": 58,
+        "num_variants": 4,
+        "variant_accuracy": 0.75,
+        "all_correct": false,
+        "variants": [
+          {
+            "variant_id": 1,
+            "true": "correct",
+            "pred": "correct",
+            "match": true
+          },
+          {
+            "variant_id": 4,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          },
+          {
+            "variant_id": 3,
+            "true": "wrong",
+            "pred": "correct",
+            "match": false
+          },
+          {
+            "variant_id": 2,
+            "true": "wrong",
+            "pred": "wrong",
+            "match": true
+          }
+        ]
+      }
+    ]
+  }
+}

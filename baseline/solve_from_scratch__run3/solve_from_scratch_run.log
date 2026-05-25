@@ -1,0 +1,81 @@
+============================================================
+  H1 Solve Experiment — gpt-5.2 zero-shot solving
+  run_id=3  smoke=False  workers=4
+  dataset: ../dataset/final_dataset.json
+  output:  /Users/aurorasun/Desktop/ECE399/ECE399/baseline/h1_solve_r3_20260428
+  started: 2026-04-28 23:00:57
+============================================================
+
+============================================================
+  H1 Solve Experiment  |  run_id=3  |  problems=58
+  effort=low  |  workers=4  |  FULL RUN
+============================================================
+
+****(25s)*  [1/58] pid=3 -> solved='15402'  gt='15402'  [OK]
+(29s)*  [2/58] pid=1 -> solved='9099'  gt='9099'  [OK]
+(33s)*  [3/58] pid=2 -> solved='82104856'  gt='82104856'  [OK]
+(28s)*  [4/58] pid=6 -> solved='23222833643520'  gt='23222833643520'  [OK]
+(25s)(33s)  [5/58] pid=7 -> solved='1523'  gt='26629'  [WRONG]
+  [6/58] pid=5 -> solved='65536'  gt='65536'  [OK]
+**(7s)*  [7/58] pid=9 -> solved='64'  gt='64'  [OK]
+(76s)*  [8/58] pid=4 -> solved='0'  gt='0'  [OK]
+(30s)*  [9/58] pid=11 -> solved='500004500013000012'  gt='500004500013000012'  [OK]
+(46s)*  [10/58] pid=10 -> solved='50152'  gt='50152'  [OK]
+(73s)*  [11/58] pid=8 -> solved='0'  gt='272931385'  [WRONG]
+(71s)*  [12/58] pid=13 -> solved='22'  gt='20'  [WRONG]
+(75s)*  [13/58] pid=15 -> solved='10{,}670{,}666{,}000'  gt='10670666000'  [WRONG]
+(107s)*  [14/58] pid=14 -> solved='48'  gt='42'  [WRONG]
+(147s)*(68s)*  [15/58] pid=16 -> solved='36{,}008{,}999{,}000'  gt='36008999000'  [WRONG]
+(12s)*  [16/58] pid=12 -> solved=None  gt='12'  [INVALID]
+(86s)*  [17/58] pid=20 -> solved='3001'  gt='2^{3001}-1'  [WRONG]
+(119s)*  [18/58] pid=17 -> solved='421'  gt='421'  [OK]
+(141s)*  [19/58] pid=18 -> solved='507'  gt='507'  [OK]
+(79s)*  [20/58] pid=21 -> solved='1501'  gt='2^{1501}-1'  [WRONG]
+(169s)*  [21/58] pid=19 -> solved='601'  gt='601'  [OK]
+(100s)*  [22/58] pid=22 -> solved='4001'  gt='2^{4001}-1'  [WRONG]
+(91s)*  [23/58] pid=23 -> solved='3870'  gt='2021'  [WRONG]
+(67s)*  [24/58] pid=25 -> solved='3696'  gt='1932'  [WRONG]
+(93s)*  [25/58] pid=27 -> solved='1999'  gt='3'  [WRONG]
+(147s)*  [26/58] pid=24 -> solved='4230'  gt='2205'  [WRONG]
+(127s)*  [27/58] pid=26 -> solved='\\left[\\frac{\\sqrt2}{2},\\,\\sqrt2\\right]'  gt='\\frac{\\sqrt{2}}{2}'  [WRONG]
+(73s)*  [28/58] pid=30 -> solved='1'  gt='20693402'  [WRONG]
+(104s)*  [29/58] pid=29 -> solved='6581'  gt='3'  [WRONG]
+(187s)*(115s)*  [30/58] pid=31 -> solved='2'  gt='25000001'  [WRONG]
+(10s)*  [31/58] pid=28 -> solved=None  gt='3'  [INVALID]
+(37s)*  [32/58] pid=33 -> solved='1981'  gt='1981'  [OK]
+(32s)*  [33/58] pid=35 -> solved='9703'  gt='9703'  [OK]
+(92s)*  [34/58] pid=32 -> solved='2'  gt='38093585'  [WRONG]
+(55s)*  [35/58] pid=34 -> solved='4161'  gt='4161'  [OK]
+(34s)*  [36/58] pid=38 -> solved='37132'  gt='317142'  [WRONG]
+(81s)*  [37/58] pid=37 -> solved='185656'  gt='139243'  [WRONG]
+(73s)*  [38/58] pid=39 -> solved='951'  gt='1526'  [WRONG]
+(155s)*  [39/58] pid=36 -> solved='199994'  gt='149996'  [WRONG]
+(114s)*  [40/58] pid=40 -> solved='22784'  gt='42564'  [WRONG]
+(54s)*  [41/58] pid=44 -> solved='108'  gt='108'  [OK]
+(127s)*  [42/58] pid=42 -> solved='101002'  gt='103020'  [WRONG]
+(154s)*(10s)*  [43/58] pid=41 -> solved=None  gt='401'  [INVALID]
+(146s)*  [44/58] pid=43 -> solved='201902'  gt='202576'  [WRONG]
+(88s)*  [45/58] pid=47 -> solved='1174'  gt='1191'  [WRONG]
+(123s)*  [46/58] pid=45 -> solved='74'  gt='773'  [WRONG]
+(132s)*(33s)*  [47/58] pid=49 -> solved='110556'  gt='43040'  [WRONG]
+(11s)*  [48/58] pid=46 -> solved=None  gt='3913'  [INVALID]
+(144s)*(9s)*  [49/58] pid=48 -> solved=None  gt='475756'  [INVALID]
+(93s)*  [50/58] pid=51 -> solved='10782'  gt='10782'  [OK]
+(37s)*  [51/58] pid=53 -> solved='208'  gt='208'  [OK]
+(142s)*  [52/58] pid=50 -> solved='2017'  gt='2035153'  [WRONG]
+(145s)*(8s)*  [53/58] pid=52 -> solved=None  gt='2504'  [INVALID]
+(94s)*  [54/58] pid=55 -> solved='535'  gt='535'  [OK]
+(70s)  [55/58] pid=57 -> solved='4168'  gt='4131'  [WRONG]
+(161s)*(8s)  [56/58] pid=54 -> solved=None  gt='231'  [INVALID]
+(152s)  [57/58] pid=56 -> solved='107'  gt='192'  [WRONG]
+(83s)  [58/58] pid=58 -> solved='19'  gt='19'  [OK]
+
+  Problems: 58  |  Valid: 51  |  Invalid: 7
+  Correct:  20/51 = 39.2% problem-level solving accuracy
+
+  Details  -> /Users/aurorasun/Desktop/ECE399/ECE399/baseline/h1_solve_r3_20260428/h1_solve_details_r3.json
+  Results  -> /Users/aurorasun/Desktop/ECE399/ECE399/baseline/h1_solve_r3_20260428/h1_solve_results_r3.json
+  Cache    -> /Users/aurorasun/Desktop/ECE399/ECE399/baseline/h1_solve_r3_20260428/h1_solve_cache.json
+
+  Total time: 22.4 min
+  Finished:   2026-04-28 23:23:24

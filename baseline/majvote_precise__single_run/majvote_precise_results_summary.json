@@ -1,0 +1,39 @@
+{
+  "ablation": "b4_generic_precision_prompt",
+  "n_calls": 11,
+  "threshold": 7,
+  "metrics_ungated": {
+    "accuracy": 0.8462,
+    "precision": 0.7593,
+    "recall": 0.7069,
+    "f1": 0.7321,
+    "confusion": {
+      "TP": 41,
+      "TN": 124,
+      "FP": 13,
+      "FN": 17
+    }
+  },
+  "metrics_gated": {
+    "accuracy": 0.8513,
+    "precision": 0.8718,
+    "recall": 0.5862,
+    "f1": 0.701,
+    "confusion": {
+      "TP": 34,
+      "TN": 132,
+      "FP": 5,
+      "FN": 24
+    }
+  },
+  "problem_level_ungated": {
+    "problems_correct": 33,
+    "problems_total": 58,
+    "problem_accuracy": 0.569
+  },
+  "problem_level_gated": {
+    "problems_correct": 31,
+    "problems_total": 58,
+    "problem_accuracy": 0.5345
+  }
+}

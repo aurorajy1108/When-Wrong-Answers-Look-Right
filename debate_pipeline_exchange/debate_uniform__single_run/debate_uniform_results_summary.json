@@ -1,0 +1,22 @@
+{
+  "ablation": "homogeneous_agents",
+  "metrics": {
+    "accuracy": 0.8667,
+    "precision": 0.881,
+    "recall": 0.6379,
+    "f1": 0.74,
+    "confusion": {
+      "TP": 37,
+      "TN": 132,
+      "FP": 5,
+      "FN": 21
+    }
+  },
+  "problem_level": {
+    "problems_correct": 34,
+    "problems_total": 58,
+    "problem_accuracy": 0.5862
+  },
+  "agents": 5,
+  "rounds": 5
+}

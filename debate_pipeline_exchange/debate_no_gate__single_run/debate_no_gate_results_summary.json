@@ -1,0 +1,22 @@
+{
+  "ablation": "no_assessment_gate",
+  "metrics": {
+    "accuracy": 0.8667,
+    "precision": 0.8478,
+    "recall": 0.6724,
+    "f1": 0.75,
+    "confusion": {
+      "TP": 39,
+      "TN": 130,
+      "FP": 7,
+      "FN": 19
+    }
+  },
+  "problem_level": {
+    "problems_correct": 35,
+    "problems_total": 58,
+    "problem_accuracy": 0.6034
+  },
+  "agents": 5,
+  "rounds": 5
+}

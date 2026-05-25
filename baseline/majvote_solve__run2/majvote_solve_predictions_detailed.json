@@ -1,0 +1,1614 @@
+[
+  {
+    "problem_id": 1,
+    "ground_truth": "9099",
+    "ground_truth_norm": "9099",
+    "majority_answer": "9099",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "9099": 11
+    },
+    "raw_answers": [
+      "9099",
+      "9099",
+      "9099",
+      "9099",
+      "9099",
+      "9099",
+      "9099",
+      "9099",
+      "9099",
+      "9099",
+      "9099"
+    ]
+  },
+  {
+    "problem_id": 2,
+    "ground_truth": "82104856",
+    "ground_truth_norm": "82104856",
+    "majority_answer": "82104856",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "82104856": 10,
+      "81887541": 1
+    },
+    "raw_answers": [
+      "82104856",
+      "82104856",
+      "82104856",
+      "82104856",
+      "82104856",
+      "81887541",
+      "82104856",
+      "82104856",
+      "82104856",
+      "82104856",
+      "82104856"
+    ]
+  },
+  {
+    "problem_id": 3,
+    "ground_truth": "15402",
+    "ground_truth_norm": "15402",
+    "majority_answer": "15402",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "15402": 11
+    },
+    "raw_answers": [
+      "15402",
+      "15402",
+      "15402",
+      "15402",
+      "15402",
+      "15402",
+      "15402",
+      "15402",
+      "15402",
+      "15402",
+      "15402"
+    ]
+  },
+  {
+    "problem_id": 4,
+    "ground_truth": "0",
+    "ground_truth_norm": "0",
+    "majority_answer": "0",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 7,
+    "n_calls": 11,
+    "vote_counts": {
+      "0": 7
+    },
+    "raw_answers": [
+      "0",
+      "0",
+      null,
+      "0",
+      "0",
+      "0",
+      "0",
+      null,
+      null,
+      "0",
+      null
+    ]
+  },
+  {
+    "problem_id": 5,
+    "ground_truth": "65536",
+    "ground_truth_norm": "65536",
+    "majority_answer": "65536",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "65540": 4,
+      "65536": 7
+    },
+    "raw_answers": [
+      "65540",
+      "65536",
+      "65540",
+      "65536",
+      "65536",
+      "65540",
+      "65536",
+      "65536",
+      "65536",
+      "65540",
+      "65536"
+    ]
+  },
+  {
+    "problem_id": 6,
+    "ground_truth": "23222833643520",
+    "ground_truth_norm": "23222833643520",
+    "majority_answer": "23222833643520",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "23{}222{}833{}643{}520": 3,
+      "23\\!222\\!833\\!643\\!520": 1,
+      "23222833643520": 7
+    },
+    "raw_answers": [
+      "23{,}222{,}833{,}643{,}520",
+      "23,\\!222,\\!833,\\!643,\\!520",
+      "23222833643520",
+      "23222833643520",
+      "23222833643520",
+      "23222833643520",
+      "23222833643520",
+      "23{,}222{,}833{,}643{,}520",
+      "23{,}222{,}833{,}643{,}520",
+      "23222833643520",
+      "23222833643520"
+    ]
+  },
+  {
+    "problem_id": 7,
+    "ground_truth": "26629",
+    "ground_truth_norm": "26629",
+    "majority_answer": "10067",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "220512": 1,
+      "12083": 1,
+      "8277": 1,
+      "13091": 1,
+      "218281": 1,
+      "10067": 2,
+      "17523": 1,
+      "50429": 1,
+      "208903": 1,
+      "2179": 1
+    },
+    "raw_answers": [
+      "220512",
+      "12083",
+      "8277",
+      "13091",
+      "218281",
+      "10067",
+      "17523",
+      "50429",
+      "208903",
+      "10067",
+      "2179"
+    ]
+  },
+  {
+    "problem_id": 8,
+    "ground_truth": "272931385",
+    "ground_truth_norm": "272931385",
+    "majority_answer": "0",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "0": 9,
+      "940892962": 1,
+      "726413982": 1
+    },
+    "raw_answers": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "940892962",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "726413982"
+    ]
+  },
+  {
+    "problem_id": 9,
+    "ground_truth": "64",
+    "ground_truth_norm": "64",
+    "majority_answer": "64",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "64": 11
+    },
+    "raw_answers": [
+      "64",
+      "64",
+      "64",
+      "64",
+      "64",
+      "64",
+      "64",
+      "64",
+      "64",
+      "64",
+      "64"
+    ]
+  },
+  {
+    "problem_id": 10,
+    "ground_truth": "50152",
+    "ground_truth_norm": "50152",
+    "majority_answer": "50152",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "50152": 9,
+      "49892": 2
+    },
+    "raw_answers": [
+      "50152",
+      "50152",
+      "50152",
+      "50152",
+      "50152",
+      "50152",
+      "49892",
+      "49892",
+      "50152",
+      "50152",
+      "50152"
+    ]
+  },
+  {
+    "problem_id": 11,
+    "ground_truth": "500004500013000012",
+    "ground_truth_norm": "500004500013000012",
+    "majority_answer": "500004500013000012",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "500004500013000012": 5,
+      "1000003^{\\3}\\bigl(1000003^{\\2}-1\\bigr)\\bigl(1000003^{\\3}-1\\bigr)": 1,
+      "1016111435224962458899815021332640005616": 1,
+      "1000024000251001493004520006979010936015660005616": 1,
+      "1020131360884739596207717074593111790260433621616": 1,
+      "1{}008{}068{}272{}721{}267{}321{}000{}149{}511{}595{}646{}054{}049{}621{}616": 1,
+      "1000009000027000027\\cdot1000009000027000026\\cdot1000006000008": 1
+    },
+    "raw_answers": [
+      "500004500013000012",
+      "500004500013000012",
+      "500004500013000012",
+      "1000003^{\\,3}\\bigl(1000003^{\\,2}-1\\bigr)\\bigl(1000003^{\\,3}-1\\bigr)",
+      "1016111435224962458899815021332640005616",
+      "500004500013000012",
+      "1000024000251001493004520006979010936015660005616",
+      "1020131360884739596207717074593111790260433621616",
+      "1{,}008{,}068{,}272{,}721{,}267{,}321{,}000{,}149{,}511{,}595{,}646{,}054{,}049{,}621{,}616",
+      "1000009000027000027\\cdot 1000009000027000026\\cdot 1000006000008",
+      "500004500013000012"
+    ]
+  },
+  {
+    "problem_id": 12,
+    "ground_truth": "12",
+    "ground_truth_norm": "12",
+    "majority_answer": "12",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "12": 8,
+      "16": 1,
+      "10": 2
+    },
+    "raw_answers": [
+      "12",
+      "12",
+      "12",
+      "12",
+      "12",
+      "12",
+      "16",
+      "10",
+      "12",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "problem_id": 13,
+    "ground_truth": "20",
+    "ground_truth_norm": "20",
+    "majority_answer": "22",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "24": 2,
+      "32": 3,
+      "22": 6
+    },
+    "raw_answers": [
+      "24",
+      "32",
+      "32",
+      "24",
+      "22",
+      "22",
+      "22",
+      "22",
+      "32",
+      "22",
+      "22"
+    ]
+  },
+  {
+    "problem_id": 14,
+    "ground_truth": "42",
+    "ground_truth_norm": "42",
+    "majority_answer": "48",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "72": 4,
+      "48": 7
+    },
+    "raw_answers": [
+      "72",
+      "48",
+      "48",
+      "48",
+      "48",
+      "48",
+      "72",
+      "48",
+      "72",
+      "48",
+      "72"
+    ]
+  },
+  {
+    "problem_id": 15,
+    "ground_truth": "10670666000",
+    "ground_truth_norm": "10670666000",
+    "majority_answer": null,
+    "correct": false,
+    "consensus": "tie",
+    "n_valid": 9,
+    "n_calls": 11,
+    "vote_counts": {
+      "10670666000": 4,
+      "10{}670{}666{}000": 4,
+      "10670667000": 1
+    },
+    "raw_answers": [
+      "10670666000",
+      null,
+      "10{,}670{,}666{,}000",
+      "10{,}670{,}666{,}000",
+      "10{,}670{,}666{,}000",
+      "10670666000",
+      "10670666000",
+      "10{,}670{,}666{,}000",
+      "10670666000",
+      "10,670,667,000",
+      null
+    ]
+  },
+  {
+    "problem_id": 16,
+    "ground_truth": "36008999000",
+    "ground_truth_norm": "36008999000",
+    "majority_answer": "36008999000",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 9,
+    "n_calls": 11,
+    "vote_counts": {
+      "36{}008{}999{}000": 3,
+      "36009000500": 1,
+      "36008999000": 5
+    },
+    "raw_answers": [
+      "36{,}008{,}999{,}000",
+      "36009000500",
+      "36008999000",
+      "36008999000",
+      "36{,}008{,}999{,}000",
+      null,
+      "36008999000",
+      "36008999000",
+      "36008999000",
+      null,
+      "36{,}008{,}999{,}000"
+    ]
+  },
+  {
+    "problem_id": 17,
+    "ground_truth": "421",
+    "ground_truth_norm": "421",
+    "majority_answer": "421",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 8,
+    "n_calls": 11,
+    "vote_counts": {
+      "421": 7,
+      "226": 1
+    },
+    "raw_answers": [
+      "421",
+      "421",
+      null,
+      "421",
+      "421",
+      "421",
+      null,
+      "421",
+      null,
+      "421",
+      "226"
+    ]
+  },
+  {
+    "problem_id": 18,
+    "ground_truth": "507",
+    "ground_truth_norm": "507",
+    "majority_answer": "507",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 10,
+    "n_calls": 11,
+    "vote_counts": {
+      "506": 1,
+      "507": 7,
+      "276": 1,
+      "275": 1
+    },
+    "raw_answers": [
+      "506",
+      "507",
+      "276",
+      "507",
+      null,
+      "507",
+      "507",
+      "507",
+      "507",
+      "275",
+      "507"
+    ]
+  },
+  {
+    "problem_id": 19,
+    "ground_truth": "601",
+    "ground_truth_norm": "601",
+    "majority_answer": "601",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "601": 8,
+      "612": 1,
+      "613": 1,
+      "600": 1
+    },
+    "raw_answers": [
+      "601",
+      "612",
+      "601",
+      "601",
+      "613",
+      "600",
+      "601",
+      "601",
+      "601",
+      "601",
+      "601"
+    ]
+  },
+  {
+    "problem_id": 20,
+    "ground_truth": "2^{3001}-1",
+    "ground_truth_norm": "2^{3001}-1",
+    "majority_answer": "3001",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "3001": 10,
+      "2^{3001}-1": 1
+    },
+    "raw_answers": [
+      "3001",
+      "3001",
+      "2^{3001}-1",
+      "3001",
+      "3001",
+      "3001",
+      "3001",
+      "3001",
+      "3001",
+      "3001",
+      "3001"
+    ]
+  },
+  {
+    "problem_id": 21,
+    "ground_truth": "2^{1501}-1",
+    "ground_truth_norm": "2^{1501}-1",
+    "majority_answer": "1501",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "1501": 11
+    },
+    "raw_answers": [
+      "1501",
+      "1501",
+      "1501",
+      "1501",
+      "1501",
+      "1501",
+      "1501",
+      "1501",
+      "1501",
+      "1501",
+      "1501"
+    ]
+  },
+  {
+    "problem_id": 22,
+    "ground_truth": "2^{4001}-1",
+    "ground_truth_norm": "2^{4001}-1",
+    "majority_answer": "4001",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "4001": 11
+    },
+    "raw_answers": [
+      "4001",
+      "4001",
+      "4001",
+      "4001",
+      "4001",
+      "4001",
+      "4001",
+      "4001",
+      "4001",
+      "4001",
+      "4001"
+    ]
+  },
+  {
+    "problem_id": 23,
+    "ground_truth": "2021",
+    "ground_truth_norm": "2021",
+    "majority_answer": "3870",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "3870": 11
+    },
+    "raw_answers": [
+      "3870",
+      "3870",
+      "3870",
+      "3870",
+      "3870",
+      "3870",
+      "3870",
+      "3870",
+      "3870",
+      "3870",
+      "3870"
+    ]
+  },
+  {
+    "problem_id": 24,
+    "ground_truth": "2205",
+    "ground_truth_norm": "2205",
+    "majority_answer": "4230",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "4230": 11
+    },
+    "raw_answers": [
+      "4230",
+      "4230",
+      "4230",
+      "4230",
+      "4230",
+      "4230",
+      "4230",
+      "4230",
+      "4230",
+      "4230",
+      "4230"
+    ]
+  },
+  {
+    "problem_id": 25,
+    "ground_truth": "1932",
+    "ground_truth_norm": "1932",
+    "majority_answer": "3696",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "3696": 11
+    },
+    "raw_answers": [
+      "3696",
+      "3696",
+      "3696",
+      "3696",
+      "3696",
+      "3696",
+      "3696",
+      "3696",
+      "3696",
+      "3696",
+      "3696"
+    ]
+  },
+  {
+    "problem_id": 26,
+    "ground_truth": "\\frac{\\sqrt{2}}{2}",
+    "ground_truth_norm": "\\frac{\\sqrt{2}}{2}",
+    "majority_answer": "\\frac1{\\sqrt2}",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 5,
+    "n_calls": 11,
+    "vote_counts": {
+      "\\frac1{\\sqrt2}": 3,
+      "1\\le\\lambda<\\sqrt2": 1,
+      "\\lambda\\in\\left[\\frac1{\\sqrt2}\\\\sqrt2\\right]": 1
+    },
+    "raw_answers": [
+      null,
+      null,
+      "\\frac1{\\sqrt2}",
+      "\\frac1{\\sqrt2}",
+      null,
+      null,
+      "1\\le \\lambda<\\sqrt2",
+      "\\frac1{\\sqrt2}",
+      "\\lambda\\in\\left[\\frac1{\\sqrt2},\\,\\sqrt2\\right]",
+      null,
+      null
+    ]
+  },
+  {
+    "problem_id": 27,
+    "ground_truth": "3",
+    "ground_truth_norm": "3",
+    "majority_answer": "1999",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "3": 4,
+      "1002": 1,
+      "1999": 6
+    },
+    "raw_answers": [
+      "3",
+      "1002",
+      "1999",
+      "3",
+      "1999",
+      "3",
+      "1999",
+      "1999",
+      "1999",
+      "3",
+      "1999"
+    ]
+  },
+  {
+    "problem_id": 28,
+    "ground_truth": "3",
+    "ground_truth_norm": "3",
+    "majority_answer": "999",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "4": 1,
+      "999": 9,
+      "3": 1
+    },
+    "raw_answers": [
+      "4",
+      "999",
+      "999",
+      "3",
+      "999",
+      "999",
+      "999",
+      "999",
+      "999",
+      "999",
+      "999"
+    ]
+  },
+  {
+    "problem_id": 29,
+    "ground_truth": "3",
+    "ground_truth_norm": "3",
+    "majority_answer": "6581",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "6581": 8,
+      "3": 3
+    },
+    "raw_answers": [
+      "6581",
+      "6581",
+      "3",
+      "6581",
+      "3",
+      "3",
+      "6581",
+      "6581",
+      "6581",
+      "6581",
+      "6581"
+    ]
+  },
+  {
+    "problem_id": 30,
+    "ground_truth": "20693402",
+    "ground_truth_norm": "20693402",
+    "majority_answer": null,
+    "correct": false,
+    "consensus": "tie",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "3": 2,
+      "2": 3,
+      "20702500": 1,
+      "41395901": 3,
+      "1": 2
+    },
+    "raw_answers": [
+      "3",
+      "2",
+      "20702500",
+      "41395901",
+      "41395901",
+      "1",
+      "2",
+      "2",
+      "1",
+      "3",
+      "41395901"
+    ]
+  },
+  {
+    "problem_id": 31,
+    "ground_truth": "25000001",
+    "ground_truth_norm": "25000001",
+    "majority_answer": "2",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "2": 5,
+      "1": 4,
+      "50010001": 2
+    },
+    "raw_answers": [
+      "2",
+      "2",
+      "1",
+      "50010001",
+      "50010001",
+      "1",
+      "1",
+      "1",
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  {
+    "problem_id": 32,
+    "ground_truth": "38093585",
+    "ground_truth_norm": "38093585",
+    "majority_answer": null,
+    "correct": false,
+    "consensus": "tie",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "2": 5,
+      "1": 5,
+      "76199513": 1
+    },
+    "raw_answers": [
+      "2",
+      "2",
+      "1",
+      "2",
+      "2",
+      "76199513",
+      "2",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  {
+    "problem_id": 33,
+    "ground_truth": "1981",
+    "ground_truth_norm": "1981",
+    "majority_answer": "1981",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "1981": 11
+    },
+    "raw_answers": [
+      "1981",
+      "1981",
+      "1981",
+      "1981",
+      "1981",
+      "1981",
+      "1981",
+      "1981",
+      "1981",
+      "1981",
+      "1981"
+    ]
+  },
+  {
+    "problem_id": 34,
+    "ground_truth": "4161",
+    "ground_truth_norm": "4161",
+    "majority_answer": "4161",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "4161": 11
+    },
+    "raw_answers": [
+      "4161",
+      "4161",
+      "4161",
+      "4161",
+      "4161",
+      "4161",
+      "4161",
+      "4161",
+      "4161",
+      "4161",
+      "4161"
+    ]
+  },
+  {
+    "problem_id": 35,
+    "ground_truth": "9703",
+    "ground_truth_norm": "9703",
+    "majority_answer": "9703",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "9703": 11
+    },
+    "raw_answers": [
+      "9703",
+      "9703",
+      "9703",
+      "9703",
+      "9703",
+      "9703",
+      "9703",
+      "9703",
+      "9703",
+      "9703",
+      "9703"
+    ]
+  },
+  {
+    "problem_id": 36,
+    "ground_truth": "149996",
+    "ground_truth_norm": "149996",
+    "majority_answer": "199994",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "199994": 7,
+      "199995": 4
+    },
+    "raw_answers": [
+      "199994",
+      "199994",
+      "199995",
+      "199995",
+      "199994",
+      "199994",
+      "199995",
+      "199994",
+      "199994",
+      "199995",
+      "199994"
+    ]
+  },
+  {
+    "problem_id": 37,
+    "ground_truth": "139243",
+    "ground_truth_norm": "139243",
+    "majority_answer": "185656",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "185656": 8,
+      "185657": 3
+    },
+    "raw_answers": [
+      "185656",
+      "185656",
+      "185657",
+      "185656",
+      "185656",
+      "185656",
+      "185657",
+      "185656",
+      "185657",
+      "185656",
+      "185656"
+    ]
+  },
+  {
+    "problem_id": 38,
+    "ground_truth": "317142",
+    "ground_truth_norm": "317142",
+    "majority_answer": "37132",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "67137": 2,
+      "97237": 2,
+      "57234": 1,
+      "37132": 3,
+      "57231": 1,
+      "57317": 1,
+      "127737": 1
+    },
+    "raw_answers": [
+      "67137",
+      "97237",
+      "97237",
+      "57234",
+      "37132",
+      "57231",
+      "67137",
+      "37132",
+      "37132",
+      "57317",
+      "127737"
+    ]
+  },
+  {
+    "problem_id": 39,
+    "ground_truth": "1526",
+    "ground_truth_norm": "1526",
+    "majority_answer": null,
+    "correct": false,
+    "consensus": "tie",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "461": 1,
+      "1671": 3,
+      "1011": 1,
+      "951": 3,
+      "1711": 1,
+      "1561": 1,
+      "1201": 1
+    },
+    "raw_answers": [
+      "461",
+      "1671",
+      "1011",
+      "1671",
+      "951",
+      "1711",
+      "951",
+      "1671",
+      "1561",
+      "1201",
+      "951"
+    ]
+  },
+  {
+    "problem_id": 40,
+    "ground_truth": "42564",
+    "ground_truth_norm": "42564",
+    "majority_answer": "11272",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "9252": 1,
+      "9508": 1,
+      "11504": 1,
+      "10584": 1,
+      "13694": 1,
+      "11272": 2,
+      "11392": 1,
+      "6868": 1,
+      "7312": 1,
+      "18624": 1
+    },
+    "raw_answers": [
+      "9252",
+      "9508",
+      "11504",
+      "10584",
+      "13694",
+      "11272",
+      "11392",
+      "11272",
+      "6868",
+      "7312",
+      "18624"
+    ]
+  },
+  {
+    "problem_id": 41,
+    "ground_truth": "401",
+    "ground_truth_norm": "401",
+    "majority_answer": "401",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 10,
+    "n_calls": 11,
+    "vote_counts": {
+      "401": 9,
+      "421": 1
+    },
+    "raw_answers": [
+      "401",
+      null,
+      "401",
+      "401",
+      "401",
+      "401",
+      "401",
+      "401",
+      "401",
+      "401",
+      "421"
+    ]
+  },
+  {
+    "problem_id": 42,
+    "ground_truth": "103020",
+    "ground_truth_norm": "103020",
+    "majority_answer": "101002",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 9,
+    "n_calls": 11,
+    "vote_counts": {
+      "101002": 7,
+      "101001": 2
+    },
+    "raw_answers": [
+      "101002",
+      "101002",
+      "101002",
+      "101002",
+      "101001",
+      "101001",
+      "101002",
+      "101002",
+      "101002",
+      null,
+      null
+    ]
+  },
+  {
+    "problem_id": 43,
+    "ground_truth": "202576",
+    "ground_truth_norm": "202576",
+    "majority_answer": "203919",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 5,
+    "n_calls": 11,
+    "vote_counts": {
+      "203919": 3,
+      "201904": 1,
+      "202576": 1
+    },
+    "raw_answers": [
+      null,
+      null,
+      null,
+      null,
+      "203919",
+      "201904",
+      "202576",
+      null,
+      "203919",
+      "203919",
+      null
+    ]
+  },
+  {
+    "problem_id": 44,
+    "ground_truth": "108",
+    "ground_truth_norm": "108",
+    "majority_answer": "108",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "108": 10,
+      "748": 1
+    },
+    "raw_answers": [
+      "108",
+      "108",
+      "108",
+      "108",
+      "108",
+      "108",
+      "108",
+      "108",
+      "108",
+      "748",
+      "108"
+    ]
+  },
+  {
+    "problem_id": 45,
+    "ground_truth": "773",
+    "ground_truth_norm": "773",
+    "majority_answer": "4",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 7,
+    "n_calls": 11,
+    "vote_counts": {
+      "218": 1,
+      "4": 5,
+      "123": 1
+    },
+    "raw_answers": [
+      null,
+      "218",
+      "4",
+      "4",
+      "123",
+      null,
+      null,
+      "4",
+      "4",
+      null,
+      "4"
+    ]
+  },
+  {
+    "problem_id": 46,
+    "ground_truth": "3913",
+    "ground_truth_norm": "3913",
+    "majority_answer": "3913",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 3,
+    "n_calls": 11,
+    "vote_counts": {
+      "3913": 2,
+      "3": 1
+    },
+    "raw_answers": [
+      null,
+      null,
+      null,
+      "3913",
+      null,
+      "3913",
+      null,
+      null,
+      null,
+      "3",
+      null
+    ]
+  },
+  {
+    "problem_id": 47,
+    "ground_truth": "1191",
+    "ground_truth_norm": "1191",
+    "majority_answer": "597",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "597": 8,
+      "1174": 2,
+      "594": 1
+    },
+    "raw_answers": [
+      "597",
+      "597",
+      "597",
+      "1174",
+      "597",
+      "597",
+      "597",
+      "597",
+      "597",
+      "1174",
+      "594"
+    ]
+  },
+  {
+    "problem_id": 48,
+    "ground_truth": "475756",
+    "ground_truth_norm": "475756",
+    "majority_answer": "10080",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 3,
+    "n_calls": 11,
+    "vote_counts": {
+      "475754": 1,
+      "10080": 2
+    },
+    "raw_answers": [
+      null,
+      null,
+      "475754",
+      null,
+      null,
+      "10080",
+      null,
+      null,
+      "10080",
+      null,
+      null
+    ]
+  },
+  {
+    "problem_id": 49,
+    "ground_truth": "43040",
+    "ground_truth_norm": "43040",
+    "majority_answer": "110556",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "110556": 10,
+      "110612": 1
+    },
+    "raw_answers": [
+      "110556",
+      "110556",
+      "110556",
+      "110556",
+      "110556",
+      "110556",
+      "110556",
+      "110556",
+      "110556",
+      "110556",
+      "110612"
+    ]
+  },
+  {
+    "problem_id": 50,
+    "ground_truth": "2035153",
+    "ground_truth_norm": "2035153",
+    "majority_answer": "2035153",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 7,
+    "n_calls": 11,
+    "vote_counts": {
+      "2017": 2,
+      "2035153": 5
+    },
+    "raw_answers": [
+      "2017",
+      "2035153",
+      "2035153",
+      null,
+      null,
+      "2035153",
+      null,
+      "2017",
+      "2035153",
+      "2035153",
+      null
+    ]
+  },
+  {
+    "problem_id": 51,
+    "ground_truth": "10782",
+    "ground_truth_norm": "10782",
+    "majority_answer": "10782",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 8,
+    "n_calls": 11,
+    "vote_counts": {
+      "10782": 6,
+      "581": 1,
+      "44011": 1
+    },
+    "raw_answers": [
+      null,
+      "10782",
+      null,
+      "10782",
+      "10782",
+      "10782",
+      "581",
+      null,
+      "10782",
+      "10782",
+      "44011"
+    ]
+  },
+  {
+    "problem_id": 52,
+    "ground_truth": "2504",
+    "ground_truth_norm": "2504",
+    "majority_answer": "1201",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 6,
+    "n_calls": 11,
+    "vote_counts": {
+      "1201": 6
+    },
+    "raw_answers": [
+      "1201",
+      "1201",
+      null,
+      null,
+      "1201",
+      "1201",
+      null,
+      null,
+      "1201",
+      "1201",
+      null
+    ]
+  },
+  {
+    "problem_id": 53,
+    "ground_truth": "208",
+    "ground_truth_norm": "208",
+    "majority_answer": "208",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "208": 10,
+      "792": 1
+    },
+    "raw_answers": [
+      "208",
+      "208",
+      "208",
+      "208",
+      "208",
+      "208",
+      "792",
+      "208",
+      "208",
+      "208",
+      "208"
+    ]
+  },
+  {
+    "problem_id": 54,
+    "ground_truth": "231",
+    "ground_truth_norm": "231",
+    "majority_answer": "231",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 10,
+    "n_calls": 11,
+    "vote_counts": {
+      "231": 9,
+      "\\frac{\\sqrt{5237001}}{13\\sqrt{17}}": 1
+    },
+    "raw_answers": [
+      "231",
+      "231",
+      "231",
+      "231",
+      "\\frac{\\sqrt{5237001}}{13\\sqrt{17}}",
+      "231",
+      "231",
+      "231",
+      null,
+      "231",
+      "231"
+    ]
+  },
+  {
+    "problem_id": 55,
+    "ground_truth": "535",
+    "ground_truth_norm": "535",
+    "majority_answer": "16",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "16": 6,
+      "535": 5
+    },
+    "raw_answers": [
+      "16",
+      "16",
+      "16",
+      "535",
+      "16",
+      "535",
+      "16",
+      "535",
+      "535",
+      "535",
+      "16"
+    ]
+  },
+  {
+    "problem_id": 56,
+    "ground_truth": "192",
+    "ground_truth_norm": "192",
+    "majority_answer": "252",
+    "correct": false,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "252": 5,
+      "0": 1,
+      "11": 1,
+      "115": 1,
+      "132": 1,
+      "192": 1,
+      "240": 1
+    },
+    "raw_answers": [
+      "252",
+      "0",
+      "11",
+      "252",
+      "115",
+      "132",
+      "252",
+      "252",
+      "252",
+      "192",
+      "240"
+    ]
+  },
+  {
+    "problem_id": 57,
+    "ground_truth": "4131",
+    "ground_truth_norm": "4131",
+    "majority_answer": "4131",
+    "correct": true,
+    "consensus": "majority",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "4131": 9,
+      "4168": 2
+    },
+    "raw_answers": [
+      "4131",
+      "4131",
+      "4131",
+      "4131",
+      "4131",
+      "4168",
+      "4131",
+      "4131",
+      "4131",
+      "4168",
+      "4131"
+    ]
+  },
+  {
+    "problem_id": 58,
+    "ground_truth": "19",
+    "ground_truth_norm": "19",
+    "majority_answer": null,
+    "correct": false,
+    "consensus": "tie",
+    "n_valid": 11,
+    "n_calls": 11,
+    "vote_counts": {
+      "20": 4,
+      "18": 4,
+      "19": 3
+    },
+    "raw_answers": [
+      "20",
+      "18",
+      "18",
+      "20",
+      "18",
+      "18",
+      "19",
+      "20",
+      "20",
+      "19",
+      "19"
+    ]
+  }
+]

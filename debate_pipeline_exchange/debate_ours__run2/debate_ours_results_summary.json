@@ -1,0 +1,22 @@
+{
+  "agents": 5,
+  "rounds": 5,
+  "metrics": {
+    "accuracy": 0.8718,
+    "precision": 0.9231,
+    "recall": 0.6207,
+    "f1": 0.7423,
+    "confusion": {
+      "TP": 36,
+      "TN": 134,
+      "FP": 3,
+      "FN": 22
+    },
+    "total": 195
+  },
+  "problem_level": {
+    "accuracy": 0.5862,
+    "correct": 34,
+    "total": 58
+  }
+}
