@@ -135,3 +135,5 @@
   - `baseline/majvote_precise__single_run/`
   - `debate_pipeline_exchange/debate_no_gate__single_run/`
   - `debate_pipeline_exchange/debate_uniform__single_run/`
+
+ Code is released under the MIT License. Dataset files are released for research use only.
