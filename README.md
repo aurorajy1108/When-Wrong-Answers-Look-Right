@@ -1,11 +1,5 @@
 # When-Wrong-Answers-Look-Right
 
-This folder is renamed so the files match the paper experiments directly.
-
-
-Full title:
-**When Wrong Answers Look Right: Multi-Agent Debate for High-Precision Verification of Hard Competition Mathematics**
-
 ## Naming Convention
 
 - `run_*.py`: code used to run an experiment
